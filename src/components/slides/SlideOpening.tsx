@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Sparkles from "./Sparkles";
+import Sparkles from "../Sparkles";
 import heartsImg from "@/assets/hearts.png";
 
 const SlideOpening = ({ onNext }: { onNext: () => void }) => {
